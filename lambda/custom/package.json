@@ -1,0 +1,15 @@
+{
+  "name": "i3-quiz",
+  "version": "1.0.0",
+  "description": "i3 Quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bespoken-tools": "~2.4.15"
+  },
+  "dependencies": {
+    "ask-sdk": "~2.6.0"
+  }
+}
