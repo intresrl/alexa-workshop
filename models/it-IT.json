@@ -4,6 +4,20 @@
       "invocationName": "quiz",
       "intents": [
         {
+          "name": "AMAZON.HelpIntent",
+          "slots": [],
+          "samples": [
+            "aiuto"
+          ]
+        },
+        {
+          "name": "StartGameIntent",
+          "slots": [],
+          "samples": [
+            "inizia gioco"
+          ]
+        },
+        {
           "name": "AMAZON.StopIntent",
           "samples": [
             "stop"
