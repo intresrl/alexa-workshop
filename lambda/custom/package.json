@@ -10,6 +10,8 @@
     "bespoken-tools": "~2.4.15"
   },
   "dependencies": {
-    "ask-sdk": "~2.6.0"
+    "ask-sdk": "~2.6.0",
+    "lodash": "~4.17.15",
+    "string-template": "~1.0.0"
   }
 }

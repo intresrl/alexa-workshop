@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "text": "Quale di queste regioni non confina con il Molise?",
+    "options": [
+      "Lazio",
+      "Marche",
+      "Puglia",
+      "Campania"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "text": "Il monte Cervino si trova...",
+    "options": [
+      "Tra l'Italia e la Svizzera",
+      "Tra l'Italia e l'Austria",
+      "Tra la Svizzera e l'Austria",
+      "Tra l'Italia e la Francia"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "text": "Il Danubio sfocia nel...",
+    "options": [
+      "Mar Mediterraneo",
+      "Oceano Atlantico",
+      "Mar Baltico",
+      "Mar Nero"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 4,
+    "text": "Qual è la capitale della Corea del Nord?",
+    "options": [
+      "Seul",
+      "Ulan Bator",
+      "Pyongyang",
+      "Kabul"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "text": "Qual è il fiume più lungo del mondo?",
+    "options": [
+      "Rio delle Amazzoni",
+      "Fiume Giallo",
+      "Mississippi",
+      "Orinoco"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "text": "In che anno si svolse la battaglia di Caporetto?",
+    "options": [
+      "1944",
+      "1917",
+      "1939",
+      "1915"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "text": "Il primo presidente della Repubblica Italiana fu...",
+    "options": [
+      "Luigi Einaudi",
+      "Alcide De Gasperi",
+      "Enrico De Nicola",
+      "Antonio Segni"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "text": "In che anno scoppiò la rivoluzione francese?",
+    "options": [
+      "1848",
+      "1722",
+      "1801",
+      "1789"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 9,
+    "text": "\"Operazione Barbarossa\" è il nome in codice di quale iniziativa militare?",
+    "options": [
+      "L'invasione dell'Unione Sovietica",
+      "L'attacco a Pearl Harbor",
+      "Lo sbarco in Normandia",
+      "L'invasione dell'Inghilterra"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "text": "Quale di questi personaggi non è stato uno dei presidenti degli Stati Uniti d'America?",
+    "options": [
+      "Thomas Jefferson",
+      "Al Gore",
+      "Harry Truman",
+      "Bill Clinton"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "text": "<prosody rate=\"x-slow\"><voice name=\"Giorgio\">\"Ei fu. Siccome immobile, dato il mortal sospiro...\"</voice></prosody> È l'incipit della poesia...",
+    "options": [
+      "Il sabato del villaggio",
+      "San Martino",
+      "La pioggia nel pineto",
+      "Il cinque maggio"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 12,
+    "text": "Chi scrisse \"Viaggio al centro della Terra\"?",
+    "options": [
+      "George Orwell",
+      "Mary Shelley",
+      "Jules Verne",
+      "Isaac Asimov"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13,
+    "text": "Quale di questi personaggi non fu insignito del premio Nobel?",
+    "options": [
+      "Grazia Deledda",
+      "Luigi Pirandello",
+      "Salvatore Quasimodo",
+      "Giuseppe Ungaretti"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 14,
+    "text": "Quale delle seguenti è un'opera di Italo Svevo?",
+    "options": [
+      "Senilità",
+      "L'Ulisse",
+      "L'idiota",
+      "I promessi sposi"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "text": "Hannibal Lecter è un personaggio del libro...",
+    "options": [
+      "Inferno",
+      "Il silenzio degli innocenti",
+      "It",
+      "Coma"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "text": "Chi ha diretto \"Arancia meccanica\"?",
+    "options": [
+      "James Cameron",
+      "Stanley Kubrick",
+      "Quentin Tarantino",
+      "Tim Burton"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "text": "Da quale libro è tratto il film \"Blade Runner\"?",
+    "options": [
+      "Il cacciatore di androidi",
+      "Utopia, andata e ritorno",
+      "Il dottor Futuro",
+      "Le sirene di Titano"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "text": "<prosody rate=\"x-slow\"><voice name=\"Giorgio\">\"Se può essere scritto, o pensato, può essere filmato.\"</voice></prosody> Questa frase viene attribuita a...",
+    "options": [
+      "George Lucas",
+      "Francis Ford Coppola",
+      "Martin Scorsese",
+      "Stanley Kubrick"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 19,
+    "text": "\"Ladri di biciclette\" è un film di Vittorio De Sica girato nel...",
+    "options": [
+      "1936",
+      "1948",
+      "1960",
+      "1968"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "text": "Di quale film non è stato protagonista Dustin Hoffman?",
+    "options": [
+      "Il laureato",
+      "Rain Man",
+      "Point Break",
+      "Sleepers"
+    ],
+    "answer": 3
+  }
+]

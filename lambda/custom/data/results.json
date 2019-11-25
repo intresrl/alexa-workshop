@@ -1,0 +1,26 @@
+[
+  {
+    "points": 0,
+    "description": "<say-as interpret-as=\"interjection\">Uh oh!</say-as> Sei un vero disastro!"
+  },
+  {
+    "points": 1,
+    "description": "<say-as interpret-as=\"interjection\">Grande Giove!</say-as> Come hai fatto ad ottenere un punteggio così basso?"
+  },
+  {
+    "points": 2,
+    "description": "<say-as interpret-as=\"interjection\">Hmm,</say-as> hai ottenuto un'insufficienza. <say-as interpret-as=\"interjection\">vabbè,</say-as> andrà meglio la prossima volta..."
+  },
+  {
+    "points": 3,
+    "description": "<say-as interpret-as=\"interjection\">Fiuu...</say-as> Sei riuscito a strappare la sufficienza!"
+  },
+  {
+    "points": 4,
+    "description": "Ottimo risultato! <say-as interpret-as=\"interjection\">Batti cinque!</say-as>"
+  },
+  {
+    "points": 5,
+    "description": "<say-as interpret-as=\"interjection\">Wow,</say-as> sei un vero genio!"
+  }
+]
